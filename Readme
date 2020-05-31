@@ -1,0 +1,11 @@
+/ to perform ajax curd operation using jquery /
+
+1)go to the database folder database=>database.sql 
+2)import the database.sql file in phpmyadmin 
+3)to import the database.sql file do following  step
+
+  1)open the xamp on your system
+	2)click to phpmyadmin
+	3)select the import option of phpmyadmin
+	4)select  database.sql  file from your computer and click to go button 
+	5)file will import successfully 
